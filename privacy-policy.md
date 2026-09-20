@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy — Vapor Apocalypse
 
-**Effective date: 13 August 2026**
+**Effective date: 20 September 2026**
 
 Vapor Apocalypse ("the Game") is an Android game developed by VaporRainbow Labs ("we", "us").
 This policy explains what data the Game collects, why, who it is shared with, and how you can
@@ -59,7 +59,9 @@ separate copy.
 
 Email **vaporrainbow.support@gmail.com** with the subject line **"Data deletion request"**.
 
-Please include your device model and roughly when you played, so that we can locate the records.
+Please include the number shown in the game under **Settings ▸ Privacy**, so that we can
+locate the records. If it is not available on your device, tell us your device model and
+roughly when you played instead.
 We will action the request and confirm by email **within 30 days**.
 
 You may also uninstall the Game at any time, which stops all further collection.
